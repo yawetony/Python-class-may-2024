@@ -1,0 +1,2 @@
+Write a function sum(two parameters)
+return the sum of two arguments

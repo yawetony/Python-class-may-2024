@@ -1,0 +1,35 @@
+15 keywords that are not variable useable
+
+Keywords are the predefined and specific reserved words that cannot be used as variable names, function names, or identifiers. 
+
+False               class               or                  not
+return              True                def                 if                        
+in                  else                and                 while
+with                break               for                 
+
+
+
+Python operators and examples
+    Python operators are special symbols that are used to perform operations on one or more operands (value, variables, or expressions).
+    
+    The types of operators include Arithmetic Operators, Comparison Operators, Assignment Operators, Logical Operators, Bitwise Operators,
+    Membership Operators and Identity Operators
+
+    Arithmetic operators are used to perform basic mathematical operations such as addition, subtraction, multiplication, etc. e.g. a+b , a/basic
+
+    Comparison operators compare the values on either side of them and decide the relation among them. They are also called Relational operators. e.g >, <, !=, ==
+
+    Assignment operators are used to assign values to variables. E.g. a*=10 is the same as a=a*10
+
+    Logical operators are used to combine two or more conditions and check the final result. e.g. a and b , a or b
+
+    Bitwise operator works on bits and performs bit by bit operation. These operators are used to compare binary numbers. E.g. a & b
+
+    Membership operators test for membership in a sequence, such as strings, lists, or tuples. e.g. character in characters
+
+    Identity operators compare the memory locations of two objects. e.g. a is not b
+    
+
+
+
+

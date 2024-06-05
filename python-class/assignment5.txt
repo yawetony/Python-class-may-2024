@@ -1,0 +1,12 @@
+Five operations performed on two-dimensional arrays:
+- insertion
+- deletion
+- searching
+- display
+- traverse
+- update
+
+Define 2D operations:
+ A two-dimensional array is a data structure that represents a table of elements arranged in rows and columns.
+ In this array, the position of data elements is defined with two indices instead of a single index.
+

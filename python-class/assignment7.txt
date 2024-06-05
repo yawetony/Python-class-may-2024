@@ -1,0 +1,3 @@
+Write a function that if it finds even numbers , it continues to print
+Input a function that takes in three parameters (start, stop and step) using the terminal
+Print the function with three arguments

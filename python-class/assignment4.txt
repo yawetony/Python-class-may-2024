@@ -1,0 +1,12 @@
+Define what is 
+A function is a block of code which only runs when it is called.
+
+i) function parameter: A parameter is the variable listed inside the parentheses in the function definition.
+
+ii) function argument: An argument is the value that is sent to the function when it is called.
+
+Give 3 examples of function code parameter and argument
+
+Example1
+
+

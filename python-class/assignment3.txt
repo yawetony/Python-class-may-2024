@@ -1,0 +1,12 @@
+Explain:
+Append: The append() function takes a single item as an input parameter and adds it to the end of the list.
+Insert: The insert() function the specified value at a specified position
+Extend: The extend() function adds the elements of a list (iterable) to the current list. Iterable (list, set, tuple)
+Remove: The remove() function removes the first item with the specified value.
+Pop: The pop() function removes the element at the specified position.
+Count: The count() function returns the number of elements with the specified value
+sort: The sort() function arranges the list
+reverse: The reverse() function that changes the order of a string. 
+concatenate: Concatenate merges two strings into one.
+
+
